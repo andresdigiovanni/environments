@@ -9,9 +9,10 @@ pip3 install scipy
 pip3 install sklearn
 pip3 install python3-pandas
 pip3 install seaborn
+pip3 install imageio
 
 # Install Tensorflow
-pip3 install --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.3.0-cp34-cp34m-linux_x86_64.whl
+pip3 install tensorflow
 
 # Install Jupyter
 pip3 install jupyter

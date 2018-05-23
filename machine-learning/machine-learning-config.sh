@@ -4,10 +4,10 @@
 apt-get install python3-pip python3-dev -y
 
 # Install python libraries
+apt-get install python3-pandas -y
 pip3 install matplotlib
 pip3 install scipy
 pip3 install sklearn
-pip3 install python3-pandas
 pip3 install seaborn
 pip3 install imageio
 

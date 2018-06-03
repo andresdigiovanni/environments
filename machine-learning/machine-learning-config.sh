@@ -11,6 +11,7 @@ pip3 install sklearn
 pip3 install seaborn
 pip3 install imageio
 pip3 install xgboost
+pip3 install lightgbm
 
 # Install Tensorflow
 pip3 install tensorflow

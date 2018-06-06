@@ -6,6 +6,7 @@ apt-get install python3-pip python3-dev -y
 # Install python libraries
 apt-get install python3-pandas -y
 pip3 install matplotlib
+pip3 install plotly
 pip3 install scipy
 pip3 install sklearn
 pip3 install seaborn

@@ -23,3 +23,6 @@ pip3 install jupyter
 # Install Jupyter kernels
 python3 -m pip install ipykernel
 python3 -m ipykernel install --user
+
+# Install IDE
+apt-get install spyder3 -y
